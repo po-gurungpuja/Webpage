@@ -1,0 +1,90 @@
+
+li{
+    padding: 5px 15px;
+
+}
+
+li a{
+    color: black;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+ul{
+    font-family: Arial Black;
+}
+li a:hover{
+    color: rgb(131, 77, 77);
+}
+#seed div{
+    padding-bottom: 10px;
+}
+#seed #s p{
+    text-align: justify;
+    
+}
+#seed #e p {
+    text-align: justify;
+    
+}
+#imp #seed {
+    
+    border: 1px solid brown;
+}
+#imp #doc {
+    margin-top: 5px;
+    border: 1px solid brown;
+    margin-bottom: 5px;
+}
+#doc #d p{
+    text-align: left;
+    
+}
+#doc #o p {
+    text-align: justify;
+    
+}
+#doc #c p {
+    text-align: right;
+    
+}
+
+#featured img{
+    width: 100%;
+}
+#featured div a{
+    background-color: brown;
+    color: cornsilk;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#featured div a:hover{
+    color:brown;
+    background-color: whitesmoke;
+}
+#footer{
+    height: 600px;
+    width:100%;
+    background-color: rgb(216, 165, 70);
+    color: whitesmoke;
+}
+#footer h2{
+    font-family: Arial Black;
+    text-align: center;
+    padding-top: 5px;
+
+}
+#footer #foot p{
+    padding-top: 100px;    
+    font-size: 20px;
+    text-align: center;
+
+
+}
+#footer div.row h3{
+    text-align: center;
+    margin-top: 20px;
+}
+#footer div.row p{
+    text-align: justify;
+    font-size: 20px;
+}

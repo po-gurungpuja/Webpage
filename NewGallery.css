@@ -1,0 +1,58 @@
+li{
+    padding: 5px 15px;
+
+}
+
+li a{
+    color: black;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+ul{
+    font-family: Arial Black;
+}
+li a:hover{
+    color: rgb(131, 77, 77);
+}
+#dd div h2{
+ text-align: center;
+ font-family: italic Black;
+ padding-top: 20px;
+ font-size: 50px;
+}
+#dd div ul li {
+    text-decoration: none;
+    list-style-type: none;
+    display: inline-block;
+}
+#dd div ul li a:hover {
+  opacity: 0.5;
+
+}
+#footer{
+    height: 600px;
+    width:100%;
+    background-color: rgb(216, 165, 70);
+    color: whitesmoke;
+}
+#footer h2{
+    font-family: Arial Black;
+    text-align: center;
+    padding-top: 5px;
+
+}
+#footer #foot p{
+    padding-top: 100px;    
+    font-size: 20px;
+    text-align: center;
+
+
+}
+#footer div.row h3{
+    text-align: center;
+    margin-top: 20px;
+}
+#footer div.row p{
+    text-align: justify;
+    font-size: 20px;
+}
