@@ -1,0 +1,25 @@
+body{
+  background: url(../images/animals1.jpg) no-repeat fixed;
+  background-size: cover;
+  }
+.hero{
+  color: orange;
+  text-align: center;
+  margin-top: 20%;
+  font-size: 75px;
+  font-family: 'Revalia', cursive;
+  letter-spacing: -.05em;
+  line-height: 1.2em;
+
+}
+
+.ima{
+  height: 100px;
+  width: 200px;
+}
+footer.foot{
+  background-color: #fff;
+  padding:45px 0 45px;
+  font-size:15px;
+  line-height:24px;
+}
